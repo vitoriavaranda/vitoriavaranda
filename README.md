@@ -7,4 +7,4 @@ Além disso, como Jovem-Semente no **Instituto Semear**, aprimoro habilidades de
 ### Conecte-se Comigo:
 
 | **LinkedIn** | [Meu Perfil Profissional](https://www.linkedin.com/in/vit%C3%B3riavaranda/) 
-| **Email** | vitoria.varanda@email.com |
+| **Email** | vitoriavarandavv@email.com |
