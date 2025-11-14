@@ -1,4 +1,4 @@
-# Oiê, eu sou a Vitória Varanda 
+# Oiê, eu sou a Vitória Varanda!
 
 Atualmente, sou estudante de **Ciência e Tecnologia e Engenharia de Informação** na **Universidade Federal do ABC**, e desenvolvo Iniciação Científica focada em **IA aplicada à segurança pública**, onde uso de modelos de Inteligência Artificial para análise e combate ao **tráfico de drogas em portos brasileiros**.
 
