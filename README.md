@@ -1,10 +1,10 @@
 <div align="center">
 
-# hey, i'm Vi 👋🏽
+# hi, i'm Vi 👋🏽
 
 🎓 Information Engineering @ UFABC  
 💻 Tech @ iFood  
-🔬 Behavioral Biometrics Research
+🔬 AI & Machine Learning Research
 
 </div>
 
@@ -12,11 +12,29 @@
 
 ### about me
 
-I'm Vi, an engineering student who likes technology, research
-and learning new things.
+I'm Vi, an Information Engineering student at UFABC. Almost everything
+I'm interested in somehow comes back to technology.
 
-Currently exploring programming, data and machine learning —
-while collecting a few side quests along the way ✨
+I currently work with Tech at iFood, while also doing research in AI and
+Machine Learning. Outside of tech, I really enjoy reading, learning new
+things and getting curious about random subjects.
+
+Right now, I'm focused on getting better at coding, understanding
+technology more deeply and, just as importantly, growing as a
+professional and as a person.
+
+### research
+
+🔬 **Behavioral Biometrics**
+
+I'm studying how touchscreen interaction patterns can be used to
+recognize users and detect changes in their usual behavior.
+
+🤖 **AI & Machine Learning**
+
+I'm exploring how machine learning can be applied to behavioral data,
+from understanding patterns in interactions to building models that
+can recognize users and identify anomalies.
 
 ### tech
 
@@ -32,14 +50,22 @@ while collecting a few side quests along the way ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 </p>
 
-### currently
+### right now
 
 🎓 studying Information Engineering  
-💻 working with IT Governance  
-🔬 researching behavioral biometrics  
-🐍 learning & building
+💻 working with Tech @ iFood  
+🔬 researching AI & Machine Learning  
+🐍 improving my coding skills  
+📚 reading and learning whenever I can
 
-### let's connect
+### a bigger dream
+
+I don't just want to learn technology.  
+**I want to learn how to use it to change what is possible for someone.**
+
+That's the direction I'm trying to take with everything I learn.
+
+### find me
 
 <a href="SEU_LINKEDIN">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
